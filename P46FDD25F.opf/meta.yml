@@ -1,0 +1,29 @@
+id: P46FDD25F
+initial_creation_type: input
+source_metadata:
+  work_id: http://purl.bdrc.io/resource/WA3JT13347
+  instance_id: http://purl.bdrc.io/resource/IE3JT13347
+  collection_id: http://purl.bdrc.io/resource/PR0ET001
+  language_id: None
+  title:
+    bo:
+    - རྟེན་ལ་ནང་གཞུག་འབུལ་བའི་ལག་ལེན་དང་། རྒྱལ་སྲས་ལག་ལེན་སོ་བདུན་མ།
+  alt_title:
+    bo:
+    - རྟེན་ལ་ནང་གཞུག་འབུལ་བའི་ལག་ལེན་ལུགས་སྲོལ་ཀུན་གསལ་དྲི་བྲལ་ནོར་བུ་ཆུ་ཤེལ་གྱི་མེ་ལོང་དང་།
+      བྱང་ཆུབ་སྤྱོད་ཚུལ་སྙིང་པོར་དྲིལ་བ་རྒྱལ་སྲས་ལག་ལེན་སོ་བདུན་མ།
+  author: http://purl.bdrc.io/resource/P264
+  publisher: DharmaDownload
+  access: http://purl.bdrc.io/admindata/AccessOpen
+  restrictedInChina: false
+  volumes:
+    9ccff52440204d8dbd46b576a74e4662:
+      title: ༄༅།་།རྟེན་ལ་ནང་གཞུག་འབུལ་བའི་ལག་ལེན་ལུགས་སྲོལ་ཀུན་གསལ་
+      volume_number: 1
+      base_file: UT3JT13347_001_0001.txt
+      reference: http://purl.bdrc.io/resource/VL29D41809D7CB40BD
+      image_group: null
+      quality: null
+  reproductionOf: []
+created_at: '2021-12-30T16:36:37.634953'
+last_modified_at: '2021-12-30T16:36:37.634965'
